@@ -6,6 +6,7 @@ int main() {
 	for(nc = 0; getchar() != EOF; ++nc)
 		;
 	printf("%.0f\n", nc);
+	// 用浮點數運算較精準， %.0f  可避免印出小數點及之後位數 
     /*
     註:
       在Linux上輸出EOF字符的方式: ctrl + D
