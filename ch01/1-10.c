@@ -15,3 +15,4 @@ int main() {
 	//ref: http://bbs.chinaunix.net/thread-981231-1-1.html	
 	return 0;
 } 
+
